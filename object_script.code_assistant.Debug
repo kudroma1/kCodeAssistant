@@ -1,0 +1,10 @@
+debug/app.o
+debug/classitem.o
+debug/cplusplus.o
+debug/item.o
+debug/lang.o
+debug/main.o
+debug/packageitem.o
+debug/parser.o
+debug/qrc_qml.o
+debug/moc_app.o

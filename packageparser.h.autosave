@@ -1,0 +1,16 @@
+#ifndef PACKAGEPARSER_H
+#define PACKAGEPARSER_H
+
+#include "docparser.h"
+
+namespace kudroma {
+namespace code_assistant {
+
+class PackageParser : public DocParser
+{
+public:
+    PackageParser();
+};
+}}
+
+#endif // PACKAGEPARSER_H

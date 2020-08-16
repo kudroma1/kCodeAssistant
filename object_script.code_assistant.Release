@@ -1,0 +1,10 @@
+release/app.o
+release/classitem.o
+release/cplusplus.o
+release/item.o
+release/lang.o
+release/main.o
+release/packageitem.o
+release/parser.o
+release/qrc_qml.o
+release/moc_app.o
